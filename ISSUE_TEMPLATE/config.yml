@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/foundationmachines/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not in public issues.
+  - name: Sebastion AI support
+    url: https://foundationmachines.ai/contact
+    about: Questions or issues with Sebastion AI.
