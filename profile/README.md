@@ -10,8 +10,7 @@ Security is at the core of what we build. We treat the integrity of our own syst
 
 <p align="center">
   <a href="https://aws.amazon.com/">
-    <img src="../branding/logos/aws-dark.svg#gh-dark-mode-only" alt="AWS" height="36">
-    <img src="../branding/logos/aws-light.svg#gh-light-mode-only" alt="AWS" height="36">
+    <img src="../branding/logos/aws.svg" alt="AWS" height="36">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cloudflare.com/">
@@ -19,7 +18,6 @@ Security is at the core of what we build. We treat the integrity of our own syst
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://openrouter.ai/">
-    <img src="../branding/logos/openrouter-dark.svg#gh-dark-mode-only" alt="OpenRouter" height="36">
-    <img src="../branding/logos/openrouter-light.svg#gh-light-mode-only" alt="OpenRouter" height="36">
+    <img src="../branding/logos/openrouter.svg" alt="OpenRouter" height="36">
   </a>
 </p>
