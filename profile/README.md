@@ -7,3 +7,19 @@ We build agents that each do one engineering job well. **Sebastion Code Security
 Security is at the core of what we build. We treat the integrity of our own systems, our customers' code and our supply chain with the same seriousness we expect of any production engineering team. Vulnerability disclosure is documented in [SECURITY.md](https://github.com/foundationmachines/.github/blob/main/SECURITY.md).
 
 [Install Sebastion Code Security](https://github.com/apps/sebastion-code-security) · [Say hi](mailto:hello@foundationmachines.com)
+
+<p align="center">
+  <a href="https://aws.amazon.com/">
+    <img src="../branding/logos/aws-dark.svg#gh-dark-mode-only" alt="AWS" height="36">
+    <img src="../branding/logos/aws-light.svg#gh-light-mode-only" alt="AWS" height="36">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudflare.com/">
+    <img src="../branding/logos/cloudflare.svg" alt="Cloudflare" height="36">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://openrouter.ai/">
+    <img src="../branding/logos/openrouter-dark.svg#gh-dark-mode-only" alt="OpenRouter" height="36">
+    <img src="../branding/logos/openrouter-light.svg#gh-light-mode-only" alt="OpenRouter" height="36">
+  </a>
+</p>
